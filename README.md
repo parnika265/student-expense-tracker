@@ -1,3 +1,7 @@
+
+
+
+
 # Student Expense Tracker
 
 ## Description
@@ -17,3 +21,6 @@ Make the script executable:
 
 ```bash
 chmod +x expense_tracker.sh
+## Version 2.0
+
+Version 2.0 improves the project documentation and expense tracking functionality.
