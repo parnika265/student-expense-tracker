@@ -2,7 +2,8 @@
 
 EXPENSE_FILE="expenses.txt"
 
-echo "===== Student Expense Tracker ====="
+echo "===== Student Expense Tracker v1.1 ====="
+echo "Track your daily spending easily!"
 echo "1. Add Expense"
 echo "2. View Expenses"
 echo "3. Calculate Total"
