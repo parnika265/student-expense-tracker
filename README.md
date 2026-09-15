@@ -26,4 +26,6 @@ Version 2.0 improves the project documentation and expense tracking functionalit
 ## Feature: Expense Categories
 
 Expenses can be organized into categories such as Food, Travel, and Education.
+## Future Improvement
 
+A monthly expense report feature will be added in a future version.
