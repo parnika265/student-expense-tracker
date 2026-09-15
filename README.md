@@ -1,8 +1,7 @@
 
 
+# Student Expense Tracker 
 
-
-# Student Expense Tracker - Main Branch
 
 ## Description
 
