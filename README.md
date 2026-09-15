@@ -24,3 +24,7 @@ chmod +x expense_tracker.sh
 ## Version 2.0
 
 Version 2.0 improves the project documentation and expense tracking functionality.
+## Feature: Expense Categories
+
+Expenses can be organized into categories such as Food, Travel, and Education.
+
